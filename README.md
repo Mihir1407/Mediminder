@@ -14,14 +14,14 @@ Mediminder is an innovative Android application tailored to assist elderly indiv
 
 ## Technologies Utilized:
 
-Java: The core programming language used for building the Android application, enabling the implementation of various functionalities.
+* Java: The core programming language used for building the Android application, enabling the implementation of various functionalities.
 
-Android Studio: The integrated development environment (IDE) used to create the Android app's user interface, manage code, and streamline the development process.
+* Android Studio: The integrated development environment (IDE) used to create the Android app's user interface, manage code, and streamline the development process.
 
-Google Calendar API: Integration of the Google Calendar API empowers the app to seamlessly schedule and manage doctor appointments, enhancing users' medical planning.
+* Google Calendar API: Integration of the Google Calendar API empowers the app to seamlessly schedule and manage doctor appointments, enhancing users' medical planning.
 
-MySQL: The database management system utilized to securely store user medication data, appointment details, and other relevant information.
+* MySQL: The database management system utilized to securely store user medication data, appointment details, and other relevant information.
 
-This project showcases a strong amalgamation of user-centric design and technical prowess, catering to the unique needs of elderly users. Mediminder stands as a testament to the power of technology in improving healthcare management and enhancing the quality of life for seniors.
+* This project showcases a strong amalgamation of user-centric design and technical prowess, catering to the unique needs of elderly users. Mediminder stands as a testament to the power of technology in improving healthcare management and enhancing the quality of life for seniors.
 
-Experience the convenience of medication management at your fingertips with Mediminder - the Android app designed to empower seniors on their health journey.
+* Experience the convenience of medication management at your fingertips with Mediminder - the Android app designed to empower seniors on their health journey.
