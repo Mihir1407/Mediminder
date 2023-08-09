@@ -22,6 +22,5 @@ Mediminder is an innovative Android application tailored to assist elderly indiv
 
 * MySQL: The database management system utilized to securely store user medication data, appointment details, and other relevant information.
 
-* This project showcases a strong amalgamation of user-centric design and technical prowess, catering to the unique needs of elderly users. Mediminder stands as a testament to the power of technology in improving healthcare management and enhancing the quality of life for seniors.
-
-* Experience the convenience of medication management at your fingertips with Mediminder - the Android app designed to empower seniors on their health journey.
+This project showcases a strong amalgamation of user-centric design and technical prowess, catering to the unique needs of elderly users. Mediminder stands as a testament to the power of technology in improving healthcare management and enhancing the quality of life for seniors.
+Experience the convenience of medication management at your fingertips with Mediminder - the Android app designed to empower seniors on their health journey.
